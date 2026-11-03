@@ -1,0 +1,24 @@
+{
+  "name": "fsd-mid-term--1_cse-16_2500320100255",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuragbhadana12/FSD-mid-term--1_CSE-16_2500320100255.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Anuragbhadana12/FSD-mid-term--1_CSE-16_2500320100255/issues"
+  },
+  "homepage": "https://github.com/Anuragbhadana12/FSD-mid-term--1_CSE-16_2500320100255#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
